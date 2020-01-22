@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/beachOne/static/css/main.8a24e1a5.chunk.css",
-    "main.js": "/beachOne/static/js/main.b56cdcb6.chunk.js",
-    "main.js.map": "/beachOne/static/js/main.b56cdcb6.chunk.js.map",
+    "main.js": "/beachOne/static/js/main.a326ac14.chunk.js",
+    "main.js.map": "/beachOne/static/js/main.a326ac14.chunk.js.map",
     "runtime-main.js": "/beachOne/static/js/runtime-main.03caec31.js",
     "runtime-main.js.map": "/beachOne/static/js/runtime-main.03caec31.js.map",
     "static/js/2.5849f3ad.chunk.js": "/beachOne/static/js/2.5849f3ad.chunk.js",
     "static/js/2.5849f3ad.chunk.js.map": "/beachOne/static/js/2.5849f3ad.chunk.js.map",
     "index.html": "/beachOne/index.html",
-    "precache-manifest.1e191e8d2a9f7c58c128aefe208f1d53.js": "/beachOne/precache-manifest.1e191e8d2a9f7c58c128aefe208f1d53.js",
+    "precache-manifest.2303a97c101f82d908d17ba2bee0865d.js": "/beachOne/precache-manifest.2303a97c101f82d908d17ba2bee0865d.js",
     "service-worker.js": "/beachOne/service-worker.js",
     "static/css/main.8a24e1a5.chunk.css.map": "/beachOne/static/css/main.8a24e1a5.chunk.css.map",
     "static/js/2.5849f3ad.chunk.js.LICENSE": "/beachOne/static/js/2.5849f3ad.chunk.js.LICENSE",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.03caec31.js",
     "static/js/2.5849f3ad.chunk.js",
     "static/css/main.8a24e1a5.chunk.css",
-    "static/js/main.b56cdcb6.chunk.js"
+    "static/js/main.a326ac14.chunk.js"
   ]
 }
