@@ -28,7 +28,7 @@ export default class SingleRoom extends Component {
             return (
                 <div className="error">
                     <h3>no such room could be found...</h3>
-                    <Link to='/rooms' className="btn-primary">
+                    <Link to='/beachOne/rooms' className="btn-primary">
                         Back to rooms
                     </Link>
                 </div>
